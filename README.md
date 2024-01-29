@@ -1,4 +1,4 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://i.pinimg.com/originals/a3/3a/16/a33a16ec072b3bb20442d7f709c406a5.jpg))
+[![MasterHead](https://i.pinimg.com/originals/a3/3a/16/a33a16ec072b3bb20442d7f709c406a5.jpg)
 <h1 align="center">Hi 👋, I'm Eftay</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
@@ -18,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eftay17&show_icons=true&locale=en" alt="eftay17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eftay17&" alt="eftay17" /></p>
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
