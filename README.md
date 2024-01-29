@@ -1,4 +1,4 @@
-![MasterHead]([https://i.pinimg.com/originals/a3/3a/16/a33a16ec072b3bb20442d7f709c406a5.jpg](https://media.licdn.com/dms/image/D4D16AQGQaKy5bxN85A/profile-displaybackgroundimage-shrink_350_1400/0/1706536503095?e=1712188800&v=beta&t=w4ihraPrZisnmQJKtqerhgdsV3OY8YqOE0xgKsdzFGA))
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGQaKy5bxN85A/profile-displaybackgroundimage-shrink_350_1400/0/1706536503095?e=1712188800&v=beta&t=w4ihraPrZisnmQJKtqerhgdsV3OY8YqOE0xgKsdzFGA)
 <h1 align="center">Hi 👋, I'm Eftay</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
