@@ -14,9 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eftay17&show_icons=true&locale=en&layout=compact" alt="eftay17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eftay17&show_icons=true&locale=en" alt="eftay17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eftay17&" alt="eftay17" /></p>
 
 
 ![snake gif](https://github.com/eftay17/eftay17/blob/output/github-contribution-grid-snake.gif)
